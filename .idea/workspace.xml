@@ -7,7 +7,247 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc68a51f-c5b2-472b-bca5-c62ee62bb1a5" name="Default Changelist" comment="" />
+    <list default="true" id="cc68a51f-c5b2-472b-bca5-c62ee62bb1a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/gym.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/ClassTableController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/EquipmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/controller/UserMemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/ClassOrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/ClassTableDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/EmployeeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/EquipmentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/MemberDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/dao/UserMemberDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/ClassOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/ClassTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/Equipment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/pojo/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/ClassOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/ClassTableService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/EquipmentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/UserMemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/ClassOrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/ClassTableServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/EquipmentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/MemberServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/service/impl/UserMemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/test/TestSpring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gym/test/ran.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/META-INF/gym.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/ClassTableController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/EquipmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/controller/UserMemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/ClassOrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/ClassTableDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/EmployeeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/EquipmentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/MemberDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/dao/UserMemberDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/ClassOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/ClassTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/Equipment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/pojo/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/ClassOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/ClassTableService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/EquipmentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/UserMemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/ClassOrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/ClassTableServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/EquipmentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/MemberServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/service/impl/UserMemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/test/TestSpring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/gym/test/ran.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/aspectjweaver-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/fastjson-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/mybatis-3.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/slf4j-api-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-test-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/addclass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/addemployee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/addequipment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/addmember.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/delclass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/delemployee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/delmember.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/findordermember.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/login1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/memberapplyclass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/memberlogin1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/membermain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/memberorderclass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/memberzone.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/myclass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selclasstable.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selemployee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selequipment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selmember.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selmembercard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/selmembernumber.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/updateequipment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/updatemember.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/pages/updatemyself.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/asd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/css/sb-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/css/sb-admin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/image/loginbackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/image/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin-charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin-charts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin-datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin-datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/js/sb-admin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/memberlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/blank.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/cards.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/charts.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/forgot-password.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/css/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/css/custom.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/js/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/js/custom.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/modals/logout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/navbar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/includes/scroll-to-top.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/login.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/navbar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/register.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/pug/tables.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/navbar/_navbar_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/navbar/_navbar_fixed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/navbar/_navbar_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/navbar/_navbar_static.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/navbar/_navbar_toggle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/scss/sb-admin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/chart.js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/chart.js/Chart.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/chart.js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/chart.js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/datatables/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/datatables/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/datatables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm/vendor/jquery/jquery.min.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,6 +294,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,6 +378,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -498,8 +740,16 @@
       <workItem from="1589787577337" duration="9013000" />
       <workItem from="1589953506578" duration="603000" />
       <workItem from="1589955143972" duration="3020000" />
-      <workItem from="1590296104105" duration="530000" />
+      <workItem from="1590296104105" duration="1215000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次上传gym项目，SSM框架的私人健身会所管理系统">
+      <created>1590297346478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590297346478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -526,7 +776,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384198000" />
+    <option name="totallyTimeSpent" value="384883000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -540,7 +790,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9259259" visible="true" weight="0.2015625" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9259259" visible="true" weight="0.2015625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -560,7 +810,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" weight="0.4169381" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32899022" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" x="0" y="392" width="1920" height="255" id="Messages" order="15" weight="0.2204126" />
@@ -615,6 +865,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次上传gym项目，SSM框架的私人健身会所管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次上传gym项目，SSM框架的私人健身会所管理系统" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -644,13 +898,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gym/service/ClassTableService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gym/service/impl/ClassTableServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -1010,13 +1257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -1028,6 +1268,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="811">
           <caret line="253" column="13" selection-start-line="253" selection-start-column="13" selection-end-line="253" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
         </state>
       </provider>
     </entry>
