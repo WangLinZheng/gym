@@ -1,0 +1,30 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    &lt;!&ndash; 这个配置文件作为测试使用&ndash;&gt;
+    &lt;!&ndash; 配置环境 &ndash;&gt;
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/fitnessroom"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    &lt;!&ndash; 引入映射配置文件  &ndash;&gt;
+    <mappers>
+        &lt;!&ndash;这个注解比较单一所以用package&ndash;&gt;
+      &lt;!&ndash;  <mapper class="com.gym.dao.MemberDao"/> &ndash;&gt;
+        <package name="com.gym.dao"/>
+
+    </mappers>
+</configuration>-->
